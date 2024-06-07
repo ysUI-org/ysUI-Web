@@ -1,3 +1,9 @@
+/*!
+  * ysUI Web v0.01 (https://ysui.org)
+  * Copyright 2022-2024 The ysUI Authors (https://github.com/orgs/ysUI-org/people)
+  * Licensed under MIT (https://github.com/ysUI-org/ysUI-Web/blob/main/LICENSE)
+  */
+
 
 // Import ysUI Actions (Buttons and Links)
     var actionsData;
