@@ -1,0 +1,13 @@
+{ "actions": [
+{ "elem": "btn-ys",
+    "newelem": "<a>",
+    "class": "btn btn-primary",
+    "method": "0"
+},
+
+{ "elem": "btn-ys-red",
+    "newelem": "<a>",
+    "class": "btn btn-danger",
+    "method": "0"
+}
+] }

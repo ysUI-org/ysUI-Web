@@ -1,0 +1,5 @@
+{ "icons": [
+{ "elem": "icn-ys-web", "method": "1",
+"repl": "<img src='/icons/internet-web-browser.svg' width='20'>"
+}
+] }
